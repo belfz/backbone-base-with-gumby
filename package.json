@@ -10,10 +10,10 @@
     "url": "https://github.com/belfz/backbone-base-with-gumby.git"
   },
   "keywords": [
-    "hashtable",
-    "cathash",
-    "hashmap",
-    "hash"
+    "backbone",
+    "gumby",
+    "node",
+    "express"
   ],
   "author": "Marcin Baraniecki <marcinbar1@gmail.com> (http://github.com/belfz)",
   "licenses": {
